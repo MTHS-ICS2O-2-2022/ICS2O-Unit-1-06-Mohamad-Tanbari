@@ -13,3 +13,7 @@ Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
   padding-right: 15pt;
   padding-top: 15pt;
 }
+
+body {
+  background-color: seagreen;
+}
